@@ -1,3 +1,6 @@
+# Modification des consignes:
+a la place des mains et du panier du magasin, j'ai un sac a dos dans le quel je mets mes ingrédients (lié a une personne)
+
 # Créer un objet personne. Cette personne doit avoir des propriétés et des méthodes : 
  - nom
  - lieu
